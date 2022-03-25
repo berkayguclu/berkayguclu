@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Berkay</h1>
-<h3 align="center">A person who living in GNU/Linux</h3>
 
 - 🌱 I’m currently learning **Network and Security**
 
 - 📝 I regularly write articles on [berkayguclu.com](berkayguclu.com)
 
-- 📫 How to reach me **berkayguclu09@gmail.com**
+- 📫 How to reach me: **berkayguclu09@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -15,8 +14,22 @@
 - [NDG Linux Essentials Challenges](https://berkayguclu.com/tech/ndg-linux-essentials-challenges/?utm_source=rss&utm_medium=rss&utm_campaign=ndg-linux-essentials-challenges)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Languages
+![Bash](https://img.shields.io/badge/-Bash-000?logo=GNU-Bash)
+![Python](https://img.shields.io/badge/-Python-000?logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript)
+
+### Technologies
+![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?logo=Kubernetes)
+![Git](https://img.shields.io/badge/Git-000?logo=Git)
+
+### Connect with me
+<a href="https://linkedin.com/in/berkay-guclu">![Linkedin](https://img.shields.io/badge/LinkedIn-000?logo=Linkedin)</a>
+![Twitter]()
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayguclu&show_icons=true&locale=en&layout=compact" alt="berkayguclu" /></p>
 
