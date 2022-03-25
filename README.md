@@ -18,6 +18,10 @@
 
 ### My Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CCNA: Introduction To Networks – Troubleshoot Default Gateway Issues](https://berkayguclu.com/tech/troubleshoot-default-gateway-issues/?utm_source=rss&utm_medium=rss&utm_campaign=troubleshoot-default-gateway-issues)
+- [TryHackMe / Agent Sudo](https://berkayguclu.com/ctf/agent-sudo/?utm_source=rss&utm_medium=rss&utm_campaign=agent-sudo)
+- [TryHackMe / Bounty Hacker](https://berkayguclu.com/ctf/bounty-hacker/?utm_source=rss&utm_medium=rss&utm_campaign=bounty-hacker)
+- [NDG Linux Essentials Challenges](https://berkayguclu.com/tech/ndg-linux-essentials-challenges/?utm_source=rss&utm_medium=rss&utm_campaign=ndg-linux-essentials-challenges)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
