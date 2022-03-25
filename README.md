@@ -29,8 +29,5 @@
 <a href="https://stackoverflow.com/users/16104629" target="blank">![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-000?logo=Stack-Overflow)</a>
 <a href="https://www.hackerrank.com/gevik" target="blank">![HackerRank](https://img.shields.io/badge/HackerRank-000?logo=HackerRank)</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayguclu&show_icons=true&locale=en&layout=compact" alt="berkayguclu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkayguclu&show_icons=true&locale=en" alt="berkayguclu" /></p>
 
 <a href="https://berkayguclu.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=berkayguclu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayguclu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /></a>
