@@ -18,10 +18,10 @@
 
 ### My Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe / Road](https://berkayguclu.com/ctf/road/?utm_source=rss&utm_medium=rss&utm_campaign=road)
 - [OverTheWire / Bandit – 18 to 33 –](https://berkayguclu.com/tech/bandit-18-to-33/?utm_source=rss&utm_medium=rss&utm_campaign=bandit-18-to-33)
 - [Offensive Security / Shakabrah](https://berkayguclu.com/ctf/shakabrah/?utm_source=rss&utm_medium=rss&utm_campaign=shakabrah)
 - [CCNA: Introduction To Networks – Troubleshoot Default Gateway Issues](https://berkayguclu.com/tech/troubleshoot-default-gateway-issues/?utm_source=rss&utm_medium=rss&utm_campaign=troubleshoot-default-gateway-issues)
-- [TryHackMe / Agent Sudo](https://berkayguclu.com/ctf/agent-sudo/?utm_source=rss&utm_medium=rss&utm_campaign=agent-sudo)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
