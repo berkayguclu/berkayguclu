@@ -18,10 +18,10 @@
 
 ### My Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CCNA: Introduction To Networks – Basic Device Configuration](https://berkayguclu.com/tech/basic-device-configuration/?utm_source=rss&utm_medium=rss&utm_campaign=basic-device-configuration)
 - [TryHackMe / Road](https://berkayguclu.com/ctf/road/?utm_source=rss&utm_medium=rss&utm_campaign=road)
 - [OverTheWire / Bandit – 18 to 33 –](https://berkayguclu.com/tech/bandit-18-to-33/?utm_source=rss&utm_medium=rss&utm_campaign=bandit-18-to-33)
 - [Offensive Security / Shakabrah](https://berkayguclu.com/ctf/shakabrah/?utm_source=rss&utm_medium=rss&utm_campaign=shakabrah)
-- [CCNA: Introduction To Networks – Troubleshoot Default Gateway Issues](https://berkayguclu.com/tech/troubleshoot-default-gateway-issues/?utm_source=rss&utm_medium=rss&utm_campaign=troubleshoot-default-gateway-issues)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
