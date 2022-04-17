@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Berkay</h1>
 
-- 🌱 I’m currently learning **Network and Security**
+- 🌱 I’m currently learning **System Administration**
 - 📝 I regularly write articles on [berkayguclu.com](berkayguclu.com)
 - 📫 How to reach me: **berkayguclu09@gmail.com**
 
