@@ -18,10 +18,10 @@
 
 ### My Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe / Dogcat](https://berkayguclu.com/ctf/tryhackme-dogcat/?utm_source=rss&utm_medium=rss&utm_campaign=tryhackme-dogcat)
 - [HackTheBox / Paper](https://berkayguclu.com/ctf/hackthebox-paper/?utm_source=rss&utm_medium=rss&utm_campaign=hackthebox-paper)
 - [CCNA: Introduction To Networks – Basic Device Configuration](https://berkayguclu.com/tech/basic-device-configuration/?utm_source=rss&utm_medium=rss&utm_campaign=basic-device-configuration)
 - [TryHackMe / Road](https://berkayguclu.com/ctf/road/?utm_source=rss&utm_medium=rss&utm_campaign=road)
-- [OverTheWire / Bandit – 18 to 33 –](https://berkayguclu.com/tech/bandit-18-to-33/?utm_source=rss&utm_medium=rss&utm_campaign=bandit-18-to-33)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
